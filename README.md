@@ -27,7 +27,7 @@ A fun and interactive Python game based on the classic **Rock-Paper-Scissors** c
    ```bash
    git clone https://github.com/diyaaghosh/snake-water-gun.git
    cd snake-water-gun
-```
+```bash
 2. Run the game:
 
    ```bash
