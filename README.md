@@ -32,6 +32,5 @@ A fun and interactive Python game based on the classic **Rock-Paper-Scissors** c
 
 ```bash
 python snake_water_gun.py
-
 ```
 3.Follow on-screen instructions to play against the computer.
